@@ -1,0 +1,162 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: beige;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+}
+
+
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+    color: #333;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+
+
+#hero {
+    background-color: #007bff;
+    color: black;
+    padding: 100px 0;
+}
+
+#hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#hero p {
+    font-size: 1.2rem;
+}
+
+
+
+#skills {
+    padding: 100px 0;
+}
+
+#skills img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+
+#about {
+    padding: 100px 0;
+}
+
+
+
+#experience {
+    padding: 100px 0;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1.1rem;
+}
+
+.badge-primary {
+    margin-right: 5px;
+}
+
+
+
+#projects {
+    padding: 100px 0;
+}
+
+#projects img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+
+
+#articles {
+    padding: 100px 0;
+}
+
+.list-group-item {
+    font-size: 1.2rem;
+}
+
+
+
+#testimonials {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: left;
+    padding: 20px;
+}
+
+.carousel-caption h5 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
+}
+
+
+
+#contact {
+    padding: 100px 0;
+}
+
+.list-group-item {
+    font-size: 1.2rem;
+}
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
